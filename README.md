@@ -1,4 +1,4 @@
-# Sample Project 2
+# Sample Git
 
 Enhance Git skills by practicing regularly
 
